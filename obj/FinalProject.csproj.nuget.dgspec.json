@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\francesco\\Documents\\workspace\\FinalProject\\FinalProject.csproj": {}
+    "C:\\Users\\francesco\\Documents\\workspace\\finalProject\\FinalProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\francesco\\Documents\\workspace\\FinalProject\\FinalProject.csproj": {
+    "C:\\Users\\francesco\\Documents\\workspace\\finalProject\\FinalProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\francesco\\Documents\\workspace\\FinalProject\\FinalProject.csproj",
+        "projectUniqueName": "C:\\Users\\francesco\\Documents\\workspace\\finalProject\\FinalProject.csproj",
         "projectName": "FinalProject",
-        "projectPath": "C:\\Users\\francesco\\Documents\\workspace\\FinalProject\\FinalProject.csproj",
+        "projectPath": "C:\\Users\\francesco\\Documents\\workspace\\finalProject\\FinalProject.csproj",
         "packagesPath": "C:\\Users\\francesco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\francesco\\Documents\\workspace\\FinalProject\\obj\\",
+        "outputPath": "C:\\Users\\francesco\\Documents\\workspace\\finalProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\francesco\\AppData\\Roaming\\NuGet\\NuGet.Config"
